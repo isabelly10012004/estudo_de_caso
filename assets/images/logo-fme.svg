@@ -1,0 +1,17 @@
+<svg width="320" height="220" viewBox="0 0 320 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Logo FME</title>
+  <desc>Marca estilizada FME com linha horizontal</desc>
+
+  <line x1="18" y1="112" x2="302" y2="112" stroke="white" stroke-width="2.5" stroke-linecap="round" opacity="0.95"/>
+
+  <path d="M78 66V158" stroke="white" stroke-width="10" stroke-linecap="round"/>
+  <path d="M78 66H112" stroke="white" stroke-width="10" stroke-linecap="round"/>
+  <path d="M78 112H122" stroke="white" stroke-width="10" stroke-linecap="round"/>
+
+  <path d="M146 158V66L172 138L198 66V158" stroke="white" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <path d="M244 66V158" stroke="white" stroke-width="10" stroke-linecap="round"/>
+  <path d="M244 66H274" stroke="white" stroke-width="10" stroke-linecap="round"/>
+  <path d="M244 112H268" stroke="white" stroke-width="10" stroke-linecap="round"/>
+  <path d="M244 158H278" stroke="white" stroke-width="10" stroke-linecap="round"/>
+</svg>
